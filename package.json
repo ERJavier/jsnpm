@@ -1,0 +1,26 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "Curso de npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Javier Cepeda",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "date-fns": "^2.28.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
